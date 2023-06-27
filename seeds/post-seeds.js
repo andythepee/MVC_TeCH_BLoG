@@ -7,7 +7,7 @@ const postData = [
     user_id: 3,
   },
   {
-    title: "Zoo Keepr reaches 1 million subscribers!",
+    title: "COTER has Launched!",
     post_content:
       "Coter is the newest blogstyle application used for users to post helpful tips and other information to help new and experienced tech experts alike!",
     user_id: 1,

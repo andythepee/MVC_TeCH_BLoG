@@ -3,7 +3,7 @@ const express = require("express");
 const session = require("express-session");
 const exphbs = require("express-handlebars");
 const routes = require("./controllers");
-const sequelize = require("../MVC-Tech-Blog/config/connection");
+const sequelize = require("../MVC_TeCH_BLoG/config/connection");
 
 const helpers = require("./utils/helpers");
 
