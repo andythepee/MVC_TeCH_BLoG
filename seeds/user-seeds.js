@@ -1,4 +1,4 @@
-const { User } = require("../../MVC-Tech-Blog/models");
+const { User } = require("../../MVC_TeCH_BLoG/models");
 
 const userData = [
   {
