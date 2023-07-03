@@ -2,21 +2,20 @@ const { Post } = require("../models");
 
 const postData = [
   {
-    title: "Techblog_MVC is live!",
-    post_content: "Techblog_MVC is ready for use.",
-    user_id: 3,
-  },
-  {
-    title: "COTER has Launched!",
-    post_content:
-      "Coter is the newest blogstyle application used for users to post helpful tips and other information to help new and experienced tech experts alike!",
+    title: "Lorem Ipsum I",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     user_id: 1,
   },
   {
-    title: "Password Generator",
-    post_content:
-      "This password generator is available for use for creating a random password for users",
+    title: "Lorem Ipsum II",
+    content: "Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.",
     user_id: 2,
+  },
+  {
+    title: "Lorem Ipsum III",
+    content: "Ut etiam sit amet nisl purus in mollis.",
+    user_id: 3,
   },
 ];
 
